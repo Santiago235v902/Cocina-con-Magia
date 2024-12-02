@@ -76,7 +76,7 @@ position: relative;
         left:180%; /* Sale por la derecha */
     }
 }
-.titulo-brillante.paused{
+.titulo-brillante:hover{
     animation: none;
 }
     @media (max-width:800px) {
